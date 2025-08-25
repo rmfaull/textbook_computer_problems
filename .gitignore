@@ -1,6 +1,9 @@
 # Image files
 Images/
 
+#Ignore DS_Store files
+.DS_Store
+
 # Ignore pdfs
 *.pdf
 
